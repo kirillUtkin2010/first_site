@@ -1,0 +1,38 @@
+.logo{
+    background-color: black;
+    display:flex ;
+    align-items: center;
+}
+a{
+    color: aliceblue;
+    font-size: 50px;
+}
+.logo_img{
+    width: 10%;
+
+}
+.logo_nav{
+    width: 89%;
+    display: flex;
+    justify-content: space-around;
+}
+.first {
+    display: flex;
+    align-items: center;
+    background: #D9D9D9;
+}
+.info{
+    width:49%;
+}
+.ammo{
+    width: 49%;
+}
+.img_info{
+    width:100%;
+    padding:0px;
+
+}
+.img_ammo{
+    width:100% ;
+    padding:0px;
+}
